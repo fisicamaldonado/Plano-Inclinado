@@ -9,11 +9,11 @@ Este tipo de problemas es muy útil porque permite poner a prueba las leyes de N
 
 Como se puede ver en la imagen, serán importantes algunas variables como:
 
-m: la masa del cuerpo apoyado sobre el plano
-μ: el coeficiente de rozamiento entre el cuerpo y el plano
-θ: el ángulo del plano inclinado
+- m: la masa del cuerpo apoyado sobre el plano
+- μ: el coeficiente de rozamiento entre el cuerpo y el plano
+- θ: el ángulo del plano inclinado
 
-Otra variable que será importante es la aceleración gravitatoria (g) que supondremos como 9,8m/s^2 en nuestro planeta.
+Otra variable que será importante es la aceleración gravitatoria (g) que supondremos como 9,8m/s<sup>2</sup> en nuestro planeta.
 
 El script permite hallar todas las fuerzas y componentes que actúan sobre el plano a partir de los datos ingresados y además nos permite determinar si el cuerpo en esas condiciones está en equilibrio o acelerando.
 
