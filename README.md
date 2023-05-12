@@ -1,11 +1,11 @@
 # Plano-Inclinado
-Determinar si un cuerpo sobre un plano inclinado está en equilibrio o acelerando.
+Un sencillo ejemplo en Python para determinar si un cuerpo sobre un plano inclinado está en equilibrio o acelerando.
 
 Uno de los problemas más comunes en los cursos de mecánica básica es el de los cuerpos apoyados en planos inclinados.
 
 ![plano inclinado1](https://user-images.githubusercontent.com/64449448/169734914-9315d23a-1328-441f-8c77-8c0e3eaa7da8.png)
 
-Este tipo de problemas es muy útil porque permite poner a prueba las leyes de Newton y varias herramientas matemáticas que servirán de base par ejercicios más avanzados.
+Este tipo de problemas es muy útil porque permite poner a prueba las leyes de Newton y varias herramientas matemáticas que servirán de base para ejercicios más avanzados.
 
 Como se puede ver en la imagen, serán importantes algunas variables como:
 
